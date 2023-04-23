@@ -7,6 +7,9 @@
     <string name="next_button_text">Продолжить</string>
     <string name="user_name_debug_value">Николай</string>
     <string name="user_name_place_holder">Введите имя</string>
+    <string name="answer_button_lable">Я выбрал(а)</string>
+    <string name="button_restart">Перезапуск</string>
+    <string name="test_result">Ваш результат: %1$d</string>
 
 
 
